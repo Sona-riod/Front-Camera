@@ -1,8 +1,8 @@
-# Forklift Front-End System
+# Forklift Front Camera System
 
 ## Overview
 
-The **Forklift Front-End System** is an industrial edge application for real-time pallet QR detection, operator confirmation, and cloud synchronization.  
+The **Forklift Front Camera System** is an industrial edge application for real-time pallet QR detection, operator confirmation, and cloud synchronization.  
 It is designed for forklift-mounted devices and supports controlled **Storage** and **Dispatch** workflows through a simple Human-Machine Interface (HMI).
 
 The system integrates camera-based QR detection with manual validation to ensure reliable pallet movement tracking in warehouse and brewery environments.
