@@ -1,15 +1,15 @@
 # Image Processing & Computer Vision
-opencv-python==4.10.0.84
-numpy==1.26.4
-pyzbar==0.1.9
+opencv-python
+numpy
+pyzbar
 
 # Graphical User Interface (HMI)
-Kivy==2.3.0
+Kivy
 
 # Networking & API Communication
-requests==2.32.3
-python-socketio[client]==5.11.2
-python-engineio==4.9.1
+requests
+python-socketio
+python-engineio
 
 # Security & Utilities
-cryptography==42.0.8
+cryptography
